@@ -5,12 +5,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Javi\\GithubActionsPhp\\": "src/"
+            "src\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "App\\Tests\\": "tests/"
+            "tests\\": "tests/"
         }
     },
     "authors": [{
