@@ -2,6 +2,7 @@
     "name": "javi/github-actions-php",
     "description": "Prueba de github Actions con PHPUnit",
     "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Javi\\GithubActionsPhp\\": "src/"
