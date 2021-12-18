@@ -6,6 +6,7 @@ include('src/Suma.php');
 
 class SumaTest extends TestCase
 {
+    // Este es un comentario de prueba
     public function testSuma()
     {
         $suma = new Suma(1, 2);
