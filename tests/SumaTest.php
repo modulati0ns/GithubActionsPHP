@@ -11,5 +11,8 @@ class SumaTest extends TestCase
     {
         $suma = new Suma(1, 2);
         $this->assertEquals(3, $suma->sumar(1, 2));
+
+        // Test que falla
+        $this->assertEquals(4, $suma->sumar(1, 2));
     }
 }
