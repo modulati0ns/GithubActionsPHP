@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use src\Suma;
+use app\Suma;
 
 class SumaTest extends TestCase
 {
