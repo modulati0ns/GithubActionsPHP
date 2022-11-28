@@ -1,6 +1,6 @@
 <?php
 
-use app\Suma;
+use src\Suma;
 
 require('../vendor/autoload.php');
 
